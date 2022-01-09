@@ -19,3 +19,5 @@ elif 18.5<=bki and bki<25:
 else:
     print("Beden kitle indeksiniz: {}\nZayıfsınız.".format(bki))
 
+
+
