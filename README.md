@@ -17,7 +17,7 @@ All my focus is on ***Python*** at the moment
 >
 >you can use that codes whenever you want.
 >
->> you can ask questions but i dont think i'm that skillful in Python, ***pro tem***
+>> you can ask questions but i dont think i'm that skillful in Python, ***for now***
 
 
 
