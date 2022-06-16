@@ -5,9 +5,9 @@
 
 ---
 
-|  Name  |  University and Department  | Coding Skills|
+|  Name  |  University and Department  |
 |-|-|-|
-|Serkan|Metu - Computer Engineering|Beginner, *i guess*|
+|Serkan|Metu - Computer Engineering|
 
 ---
 
