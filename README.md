@@ -6,7 +6,7 @@
 ---
 
 |  Name  |  University and Department  |
-|-|-|-|
+|-|-|
 |Serkan|Metu - Computer Engineering|
 
 ---
