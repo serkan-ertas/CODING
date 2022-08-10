@@ -4,8 +4,8 @@ print("""**************************
 
 *************************""")
 
-for i in range(1,11):
+for i in range(1, 11):
     print("****************")
-    for a in range (1,11):
-        print(i,"x",a,"=",i*a)
+    for a in range(1, 11):
+        print(i, "x", a, "=", i * a)
     print("****************")
