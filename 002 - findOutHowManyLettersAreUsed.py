@@ -4,7 +4,7 @@ ltrdict = dict()
 
 for i in a:
     if i in ltrdict:
-        ltrdict[i] += 1S
+        ltrdict[i] += 1
     else:
         ltrdict[i] = 1
 
