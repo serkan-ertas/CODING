@@ -1,12 +1,12 @@
-def fonksiyon(sayı):
+def func(number):
 
-    if sayı==1:
+    if number==1:
         return False
-    elif sayı==2:
+    elif number==2:
         return True
     else:
-        for i in range(2,sayı):
-            if (sayı%i)==0:
+        for i in range(2,number):
+            if (number%i)==0:
                 return False
         return True
 
@@ -21,10 +21,10 @@ while True:
 
     else:
         a= int(a)
-        if fonksiyon(a):
+        if func(a):
             print(a,"is a prime number.")
         else:
-            print(a,"is not a prime number.")
+            print(a,"is NOT a prime number.")
 
 
 
