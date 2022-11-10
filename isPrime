@@ -1,4 +1,0 @@
-import numpy as np
-
-def isPrime(x)
-  return not np.any([x%i == 0 for i in range(2, x)])
