@@ -1,7 +1,7 @@
 # CODING REPOSITORY
 
 **Learning Software**
->it's hard, but fun though.
+>it's hard, but still fun though
 
 ---
 
