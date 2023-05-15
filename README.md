@@ -15,7 +15,6 @@ All my focus is on ***Python*** at the moment
 ---------------
 >i'll be pleased if you make pull request on my works.
 >
->you can use that codes whenever you want.
 >
 >> you can ask questions but i dont think i'm that skillful in Python, ***for now***
 
